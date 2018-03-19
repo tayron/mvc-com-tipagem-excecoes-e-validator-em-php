@@ -1,4 +1,4 @@
-# MVC com tipagem, exception e validator em PHP
+# MVC com tipagem, exceções e validator em PHP
 
 Exemplo de crud utilizando tipagem forte, exeções para tratamento de erros e validator para validar os dados a serem persistidos.
 
@@ -9,5 +9,5 @@ A estrutura é formada por:
   - Controller
   - Model
   - Entidade
-  - Exeções personalizadas
+  - Exceções personalizadas
   - Classes para tipos primitivos
